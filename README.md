@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @bayaAlSy
 - 👀 I’m interested in software engineering
- 🌱 I’m currently learning python  laravel ramework and flutter
+-I'm laravel devloper.
+I have a ability to deal with oracl and mysql database.
+ 🌱 I’m currently learning python ,laravel framework and flutter.
 - 💞️ I’m looking to collaborate on my project 
 - 📫 How to reach me ...
 
